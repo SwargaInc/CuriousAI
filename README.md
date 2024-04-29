@@ -1,0 +1,2 @@
+# CuriousAI
+My first LLM
